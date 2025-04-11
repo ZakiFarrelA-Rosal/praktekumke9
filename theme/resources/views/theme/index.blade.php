@@ -29,7 +29,7 @@
             border: none;
             cursor: pointer;
         }
-        .btn-light { background-color: #f1c40f; color: #000; }
+        .btn-light { background-color:rgb(87, 241, 15); color: #000; }
         .btn-dark { background-color: #2c3e50; color: #fff; }
     </style>
 </head>
